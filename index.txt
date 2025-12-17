@@ -128,10 +128,13 @@ function checkSudoku() {
   document.getElementById("nextBtn").style.display = "inline-block";
 }
 
+
 function showImage() {
-  document.getElementById("finalImage").style.display = "block";
+  window.open('premio.png', '_blank');
 }
+
 </script>
 
 </body>
 </html>
+
